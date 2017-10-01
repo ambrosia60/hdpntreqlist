@@ -140,4 +140,15 @@
         <pntrequesturl>http://jnode.in/hdgpntrequest</pntrequesturl>
         <areasfull>http://jnode.in/echoarea.csv</areasfull>
     </node>
+    <node ftnaddress="2:240/1120" requestby="email">
+        <country>Germany</country>
+        <city>Bad Ueberkingen</city>
+        <system>Ambrosia60</system>
+        <sysop>Ulrich Schroeter</sysop>
+        <note>Worldwide and German echoes. Nodelists, Pointlists, RC56 Catchall</note>
+        <email>fidonet@wiamail.de</email>
+        <protocol>binkp</protocol>
+        <ipaddress>ambrosia60.dd-dns.de</ipaddress>
+        <areasfull>http://ambrosia60.dd-dns.de/fidonet/areas.lst</areasfull>
+    </node>
 </nodes>
